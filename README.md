@@ -3,7 +3,7 @@
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
 - <b>Identity & Access Management</b>
-  - [Automated and GUI-based Azure AD provisioning and role assignment using PowerShell Graph and Entra ID.](https://github.com/msbey-cyber/Azure-Active-Directory)
+  - [Automated and GUI-based Azure AD provisioning and role assignment using PowerShell Graph and Entra ID.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Azure-Active-Directory.md)
   - [Access Packages, Entitlement Management, and Expiration Policies Simulating Identity Lifecycle Governance.](https://github.com/msbey-cyber/Azure-Active-Directory/blob/main/Access-Packages-Lifecycle-Governance-Lab.md) 
 
 <h2>🏆 Certifications </h2>
