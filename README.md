@@ -7,6 +7,7 @@
   - [Access Packages, Entitlement Management, and Expiration Policies Simulating Identity Lifecycle Governance.](https://github.com/msbey-cyber/Azure-Active-Directory/blob/main/Access-Packages-Lifecycle-Governance-Lab.md)
   - [Built audit-style reports summarizing user access, role changes, and orphaned accounts for compliance simulation.](https://github.com/msbey-cyber/IAM-Labs/blob/main/azuread-access-audit-lab.md)
   - [Creation and management of users and groups within Okta to establish structured access control.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-User-Group-Management.md)
+  - [SAML and OIDC application integration in Okta, including custom SSO configuration, attribute mapping, redirect URI setup, and secure client credential management.](https://github.com/msbey-cyber/IAM-Labs/blob/main/okta-saml-oidc-lab.md)
 
 <h2>🏆 Certifications </h2>
 
