@@ -4,11 +4,11 @@
 
 - <b>Identity & Access Management</b>
   - [Automated and GUI-based Azure AD provisioning and role assignment using PowerShell Graph and Entra ID.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Azure-Active-Directory.md)
-  - [Access Packages, Entitlement Management, and Expiration Policies Simulating Identity Lifecycle Governance.](https://github.com/msbey-cyber/Azure-Active-Directory/blob/main/Access-Packages-Lifecycle-Governance-Lab.md)
-  - [Build audit-style reports summarizing user access, role changes, and orphaned accounts for compliance simulation.](https://github.com/msbey-cyber/IAM-Labs/blob/main/azuread-access-audit-lab.md)
+  - [Access Packages, Entitlement Management, and Expiration Policies Simulating Identity Lifecycle Governance.](https://github.com/msbey-cyber/Azure-Active-Directory/blob/main/Access-Packages-Lifecycle-Governance.md)
+  - [Build audit-style reports summarizing user access, role changes, and orphaned accounts for compliance simulation.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Azure-AD-Access-Audit.md)
   - [Creation and management of users and groups within Okta to establish structured access control.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-User-Group-Management.md)
-  - [SAML and OIDC application integration in Okta, including custom SSO configuration, attribute mapping, redirect URI setup, and secure client credential management.](https://github.com/msbey-cyber/IAM-Labs/blob/main/okta-saml-oidc-lab.md)
-  - [Enable Okta Verify for MFA, defining enrollment and enforcement policies to strengthen authentication.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-Verify-MFA-Lab.md)
+  - [SAML and OIDC application integration in Okta, including custom SSO configuration, attribute mapping, redirect URI setup, and secure client credential management.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-SAML-OIDC-SSO.md)
+  - [Enable Okta Verify for MFA, defining enrollment and enforcement policies to strengthen authentication.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-Verify-MFA.md)
 
 <h2>🏆 Certifications </h2>
 
