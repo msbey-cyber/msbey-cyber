@@ -25,5 +25,5 @@
 [<img align="left" alt="Qadriyyah | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/qadriyyah
-[youtube]: https://www.youtube.com/@PlayG20
+[youtube]: https://www.youtube.com/@PlayG20/videos
 
