@@ -10,6 +10,7 @@
   - [SAML and OIDC application integration in Okta, including custom SSO configuration, attribute mapping, redirect URI setup, and secure client credential management.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-SAML-OIDC-SSO.md)
   - [Enable Okta Verify for MFA, defining enrollment and enforcement policies to strengthen authentication.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-Verify-MFA.md)
   - [Configure Self‑Service Access Requests and Approval Workflows in Okta to simulate identity governance and controlled application provisioning.](https://github.com/msbey-cyber/IAM-Labs/blob/main/Okta-Access-Requests-and-Approvals.md)
+  - [Automate export of Azure resource groups, Conditional Access policies, and Entra ID apps/users/groups/roles to CSV and Terraform‑ready files for audit, access reviews, and configuration backup.](https://github.com/msbey-cyber/IAM-Labs/tree/main/Azure-Export)
 
 <h2>🏆 Certifications </h2>
 
