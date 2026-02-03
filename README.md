@@ -19,6 +19,7 @@
 - [CyberArk Sentry - PAM](https://training.cyberark.com/share/gamification/badges/external/eee0508b-abfd-4dba-bc6f-c3806800f31a?lang=en)
 - [CyberArk Defender - PAM](https://training.cyberark.com/share/gamification/badges/external/db139c3f-d64d-4391-858f-0f441bbe610e?lang=en)
 - [GIAC Security Essentials Certification (GSEC)](https://www.credly.com/badges/99d967f1-2249-4ba7-9a62-e0044a82a767/public_url)
+- [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/5ba58ead-e5f7-4a9a-821a-1f3ccfbc5031/)
 
 <h2> 📲 Connect with me:</h2>
 
