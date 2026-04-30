@@ -17,11 +17,11 @@
 - [CompTIA Security+](https://www.credly.com/badges/97751d1f-83a7-41b9-be0f-f41a11e99e0a/public_url)
 - [Microsoft Certified: Identity and Access Administrator Associate (SC-300)](https://learn.microsoft.com/en-us/users/qadriyyahabdullah-6293/credentials/5264da986aef6748)
 - [CyberArk Sentry - PAM](https://training.cyberark.com/share/gamification/badges/external/eee0508b-abfd-4dba-bc6f-c3806800f31a?lang=en)
+- [Okta Certified Administrator](https://www.credly.com/badges/4fd550b3-5897-4960-9ca6-0ae678653054/)
 - [CyberArk Defender - PAM](https://training.cyberark.com/share/gamification/badges/external/db139c3f-d64d-4391-858f-0f441bbe610e?lang=en)
 - [Okta Certified Professional](https://www.credly.com/badges/017356de-76ca-4adc-a22d-394de7d3794f)
 - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/5ba58ead-e5f7-4a9a-821a-1f3ccfbc5031/)
 - [GIAC Security Essentials Certification (GSEC)](https://www.credly.com/badges/99d967f1-2249-4ba7-9a62-e0044a82a767/public_url)
-- [Okta Certified Administrator](https://www.credly.com/badges/4fd550b3-5897-4960-9ca6-0ae678653054/)
 
 
 <h2> 📲 Connect with me:</h2>
