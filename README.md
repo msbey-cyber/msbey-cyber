@@ -21,6 +21,7 @@
 - [Okta Certified Professional](https://www.credly.com/badges/017356de-76ca-4adc-a22d-394de7d3794f)
 - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/5ba58ead-e5f7-4a9a-821a-1f3ccfbc5031/)
 - [GIAC Security Essentials Certification (GSEC)](https://www.credly.com/badges/99d967f1-2249-4ba7-9a62-e0044a82a767/public_url)
+- [Okta Certified Administrator](https://www.credly.com/badges/4fd550b3-5897-4960-9ca6-0ae678653054/)
 
 
 <h2> 📲 Connect with me:</h2>
